@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+Mechanical Engineering graduate,
+Love playing with codes and building stuff.
 
-Some information about you!
 
 ### More Information
 
@@ -12,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[manohar6839@gmail.com](mailto:manohar6839@gmail.com)
