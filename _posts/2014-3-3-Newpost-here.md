@@ -2,7 +2,6 @@
 
 layout: post
 title: Random
-permalink: /Post/random
 
 ---
 
