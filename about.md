@@ -3,14 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
-![manoharDP]({{ site.baseurl }}/images/dpp.png "DP")
+>![manoharDP]({{ site.baseurl }}/images/dpp.png "DP")
+
+
 Mechanical Engineering graduate,
 Love playing with codes and building stuff.
 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+### What else drives my mind
+
+Photography, Music, Trekking
+
+
+
 
 ### Contact me
 
