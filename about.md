@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![manoharDP]({{ site.baseurl }}/images/dpp.png "DP")
 Mechanical Engineering graduate,
 Love playing with codes and building stuff.
 
