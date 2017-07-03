@@ -9,7 +9,7 @@ name: Manohar Gupta
 description: Explorer from India
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/manohar6839/manohar6839.github.io/blob/master/images/dpp.png
+avatar: https://github.com/manohar6839/manohar6839.github.io/images/dpp.png
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://github.com/manohar6839/manohar6839.github.io/blob/master/images/
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:manav.manohar
   flickr:
-  github: https://github.com/manohar6839
-  instagram:
-  linkedin: /manohar6839
+  github: manohar6839
+  instagram:manav.manohar
+  linkedin: manohar6839
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: hiemanohar
